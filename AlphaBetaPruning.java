@@ -15,8 +15,7 @@ public class AlphaBetaPruning {
     }
 
     /**
-     * This function will print out the information to the terminal,
-     * as specified in the homework description.
+     * This function will print out the information to the terminal
      */
     public void printStats() {
     	NumberFormat formatter = new DecimalFormat("#0.0");
